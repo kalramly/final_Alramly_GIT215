@@ -3,11 +3,17 @@
 	line-height: 1;
 }
 
+#wrapper {
+    width: 1400px;
+    margin: auto;
+
+}
+
 header {
     text-align: center;
 }
 
-h1 {
+h1{
     font-weight: bold;
     font-size: 60px;
 }
@@ -23,7 +29,7 @@ h1 {
     padding-bottom: 25px;
 }
 
-#banner a {
+#banner a{
     color: #ff6600;
     text-decoration: underline;
     font-weight: bold;
@@ -91,7 +97,7 @@ a:active {
   text-decoration: underline;
 }
 
-ul > li {
+ul > li{
     display:inline-block;
     padding-top: 5px;
     padding-left: 30px;
