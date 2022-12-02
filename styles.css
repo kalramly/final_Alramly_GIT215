@@ -81,20 +81,14 @@ a {
     color: black;
 }
 
-a:link {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
 a:hover {
-  text-decoration: underline;
+	background-color: #000099;
+	color: white;
 }
 
 a:active {
-  text-decoration: underline;
+	background-color: #3d8bf0;
+	color: white;
 }
 
 ul > li{
